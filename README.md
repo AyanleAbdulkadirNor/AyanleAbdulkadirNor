@@ -7,6 +7,12 @@
 
 - 🌱 I’m currently learning **React Native**
 
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 How to reach me **Ayanle.Nor@gmail.com**
+
+- ⚡ Fun fact **Never went to university**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayanle_junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayanle_junior" height="30" width="40" /></a>
