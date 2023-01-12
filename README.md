@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Web Development, C++**
+- 💬 Ask me about **Web Development, C++,Sql Server,Oracle**
 
 - 📫 How to reach me **Ayanle.Nor@gmail.com**
 
