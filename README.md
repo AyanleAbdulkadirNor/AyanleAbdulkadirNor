@@ -1,3 +1,5 @@
+
+![Darling](https://user-images.githubusercontent.com/50264131/212062485-e25694c0-bbb4-4989-8cf4-6ca39972d4db.jpg)
 <h1 align="center">Hi 👋, I'm Ayanle Abdulkadir Nor</h1>
 <h3 align="center">A passionate Software Developer from Somalia</h3>
 <img align = "right" alt ="Coding" width="400" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png">
