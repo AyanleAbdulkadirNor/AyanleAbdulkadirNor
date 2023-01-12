@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayanle_junior" target="blank"><img src="https://img.shields.io/twitter/follow/ayanle_junior?logo=twitter&style=for-the-badge" alt="ayanle_junior" /></a> </p>
 
-- 🔭 I’m currently working on **Hormuud Telecom Full-stack Web-development**
+- 🔭 I’m currently working on **Hormuud Telecom**
 
 - 🌱 I’m currently learning **Flutter,React Native,Oracle**
 
