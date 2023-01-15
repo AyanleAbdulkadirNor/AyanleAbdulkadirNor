@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Hormuud Telecom**
 
-- 🌱 I’m currently learning **Flutter,React Native,Oracle**
+- 🌱 I’m currently learning **Flutter,React Native,Oracle,React Js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
