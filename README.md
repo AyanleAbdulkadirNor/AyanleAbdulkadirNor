@@ -2,7 +2,7 @@
 ![Darling](https://user-images.githubusercontent.com/50264131/212074207-c4192df3-720c-499c-9815-4075db2f7531.jpg)
 <h1 align="center">Hi 👋, I'm Ayanle Abdulkadir Nor</h1>
 <h3 align="center">A passionate Software Developer from Somalia</h3>
-<img align = "right" alt ="Coding" width="400" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png">
+<img align = "right" alt ="Coding" width="400" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanleabdulkadirnor&label=Profile%20views&color=0e75b6&style=flat" alt="ayanleabdulkadirnor" /> </p>
 
