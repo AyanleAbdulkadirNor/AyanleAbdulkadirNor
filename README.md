@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Hormuud Telecom**
 
-- 🌱 I’m currently learning **Flutter,React Native,Oracle,React Js,IBM Full Stack Software Developer**
+- 🌱 I’m currently learning **React Native,Oracle,React Js,IBM Full Stack Software Developer**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Web Development, C++,Sql Server,Oracle**
+- 💬 Ask me about **Flutter App, Web Development, C++,Sql Server,Oracle**
 
 - 📫 How to reach me **Ayanle.Nor@gmail.com**
 
