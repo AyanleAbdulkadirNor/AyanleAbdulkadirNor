@@ -1,160 +1,32 @@
-```{=html}
-<!-- ================= HERO SECTION ================= -->
-```
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Ayanle Abdulkadir Nor
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-🚀 Software Engineer \| Mobile & Full Stack Developer \| Somalia 🇸🇴
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://user-images.githubusercontent.com/50264131/212074207-c4192df3-720c-499c-9815-4075db2f7531.jpg" width="150" style="border-radius:50%;" />`{=html}
-```{=html}
+![Darling](https://user-images.githubusercontent.com/50264131/212074207-c4192df3-720c-499c-9815-4075db2f7531.jpg)
+<h1 align="center">Hi 👋, I'm Ayanle Abdulkadir Nor</h1>
+<h3 align="center">A passionate Software Developer from Somalia</h3>
+<img align = "right" alt ="Coding" width="400" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanleabdulkadirnor&label=Profile%20views&color=0e75b6&style=flat" alt="ayanleabdulkadirnor" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ayanle_junior" target="blank"><img src="https://img.shields.io/twitter/follow/ayanle_junior?logo=twitter&style=for-the-badge" alt="ayanle_junior" /></a> </p>
+
+- 🔭 I’m currently working on **Hormuud Telecom**
+
+- 🌱 I’m currently learning **React Native,Oracle,React Js,IBM Full Stack Software Developer**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **Flutter App, Web Development, C++,Sql Server,Oracle**
+
+- 📫 How to reach me **Ayanle.Nor@gmail.com**
+
+- ⚡ Fun fact **I love football**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ayanle_junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayanle_junior" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayanle-abdulkadir-nor-6b176a261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayanle-abdulkadir-nor-6b176a261" height="30" width="40" /></a>
+<a href="https://instagram.com/ayanle_84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayanle_84" height="30" width="40" /></a>
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif" width="420" />`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 👨‍💻 About Me
-
-``` txt
-💼 Working at: Hormuud Telecom  
-📱 Mobile Development: Flutter | React Native  
-🌐 Web Development: React JS | Next.js | .NET | Node.js  
-🗄️ Databases: Oracle | MySQL | SQL Server  
-📚 Currently Learning: Cloud Architecture & System Design  
-🤝 Open To: Open Source & Remote Opportunities  
-⚽ Fun Fact: I love football & solving real-world problems
-```
-
-------------------------------------------------------------------------
-
-## 🧠 Tech Stack
-
-### 💻 Programming Languages
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,python,dart" />`{=html}
-```{=html}
-</p>
-```
-### 🌐 Frontend & Mobile
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" />`{=html}
-```{=html}
-</p>
-```
-### ⚙ Backend & Database
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mysql,oracle" />`{=html}
-```{=html}
-</p>
-```
-### 🛠 Tools & DevOps
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 🌐 Connect With Me
-
-```{=html}
-<p align="center">
-```
-`<a href="https://twitter.com/ayanle_junior">`{=html}
-`<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>`{=html}
-`</a>`{=html}
-
-`<a href="https://www.linkedin.com/in/ayanle-abdulkadir-nor-6b176a261">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>`{=html}
-`</a>`{=html}
-
-`<a href="https://instagram.com/ayanle_84">`{=html}
-`<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>`{=html}
-`</a>`{=html}
-
-`<a href="mailto:ayanle.nor@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
-
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Analytics
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=ayanleabdulkadirnor&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>`{=html}
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleabdulkadirnor&theme=tokyonight&hide_border=true" width="48%"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 🚀 Current Focus
-
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Mobile%20Apps-Flutter-blue?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Web-React%20%26%20Next.js-61DAFB?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Backend-.NET-purple?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Database-Oracle-red?style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## ✨ Final Message
-
-```{=html}
-<p align="center">
-```
-🚀 Keep Learning • Keep Building • Keep Growing 🚀
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<b>`{=html}Made with ❤️ by Ayanle`</b>`{=html}
-```{=html}
-</p>
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleabdulkadirnor&" alt="ayanleabdulkadirnor" /></p>
