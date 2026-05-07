@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Ayanle;Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Ayanle;Software+Developer;Full+Stack+Developer;Master+of+Computer+Science" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -36,7 +36,8 @@
         <h2>🚀 About Me</h2>
         <ul align="left">
           <li>🔭 Currently working at <b>Hormuud Telecom</b></li>
-          <li>🌱 Learning <b>React Native, Oracle, React JS, IBM Full Stack</b></li>
+          <li>🌱 <b>Master's Degree</b> in Computer Science</li>
+          <li>🎓 <b>Full Stack Web Developer</b> - IBM Certified</li>
           <li>👯 Looking to collaborate on <b>Open Source Projects</b></li>
           <li>💬 Ask me about <b>Flutter, Web Dev, C++, SQL, Oracle</b></li>
           <li>⚡ Fun fact: <b>I love football! ⚽</b></li>
@@ -74,15 +75,42 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🎓 Certificates & Education</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanleabdulkadirnor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleabdulkadirnor&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044" target="_blank">
+          <img src="https://img.shields.io/badge/Udacity-Full%20Stack%20Web%20Developer-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" width="80%" alt="Udacity"/>
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Verified-Certificate-green?style=flat" alt="Verified"/>
+        <br/>
+        <b>IBM Full Stack Software Developer</b>
+        <p>Professional Certificate - Coursera</p>
+        <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white" alt="IBM"/>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://www.coursera.org/programs" target="_blank">
+          <img src="https://img.shields.io/badge/Coursera-Master%20Track-0056D2?style=for-the-badge&logo=coursera&logoColor=white" width="80%" alt="Coursera"/>
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Verified-Certificate-green?style=flat" alt="Verified"/>
+        <br/>
+        <b>Master of Computer Science</b>
+        <p>Advanced Software Engineering</p>
+        <img src="https://img.shields.io/badge/Master%20Degree-1A73E8?style=flat&logo=academic&logoColor=white" alt="Master"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleabdulkadirnor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br/>
+  <img src="https://img.shields.io/badge/🎓%20Graduate%20Certificate-IBM%20Full%20Stack-FF6B00?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certificate"/>
+  <img src="https://img.shields.io/badge/🎓%20Professional%20Certificate-Udacity%20Web%20Developer-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" alt="Udacity Certificate"/>
+  <img src="https://img.shields.io/badge/🎓%20Master's%20Degree-Computer%20Science-1A73E8?style=for-the-badge&logo=academic&logoColor=white" alt="Master Degree"/>
 </div>
 
 <br/>
@@ -90,13 +118,6 @@
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanleabdulkadirnor&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="90%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanleabdulkadirnor&theme=radical&no-frame=true&row=1&column=4" alt="Trophies"/>
 </div>
 
 <br/>
@@ -115,9 +136,7 @@
           <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
         </p>
         <p align="center">
-          <a href="#">
-            <img src="https://img.shields.io/badge/-Live%20Demo-000?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
+          <img src="https://img.shields.io/badge/⭐-Featured-FFD700?style=for-the-badge"/>
         </p>
       </td>
       <td width="50%">
@@ -129,9 +148,7 @@
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
         </p>
         <p align="center">
-          <a href="#">
-            <img src="https://img.shields.io/badge/-Live%20Demo-000?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
+          <img src="https://img.shields.io/badge/⭐-Featured-FFD700?style=for-the-badge"/>
         </p>
       </td>
     </tr>
@@ -145,9 +162,7 @@
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
         </p>
         <p align="center">
-          <a href="#">
-            <img src="https://img.shields.io/badge/-Live%20Demo-000?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
+          <img src="https://img.shields.io/badge/⭐-Featured-FFD700?style=for-the-badge"/>
         </p>
       </td>
       <td width="50%">
@@ -158,10 +173,31 @@
           <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
         </p>
         <p align="center">
-          <a href="#">
-            <img src="https://img.shields.io/badge/-Live%20Demo-000?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
+          <img src="https://img.shields.io/badge/⭐-Featured-FFD700?style=for-the-badge"/>
         </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<h2 align="center">🎯 Current Learning Goals</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="90%"/>
+        <br/>Mobile App Development
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="90%"/>
+        <br/>Database Management
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/IBM%20Full%20Stack-052FAD?style=for-the-badge&logo=ibm&logoColor=white" width="90%"/>
+        <br/>Cloud Development
       </td>
     </tr>
   </table>
